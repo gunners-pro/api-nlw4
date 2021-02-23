@@ -6,7 +6,7 @@
   "password": "docker",
   "database": "postgres",
   "entities": [
-    "src/entity/**/*.ts"
+    "src/models/**/*.ts"
   ],
   "migrations": [
     "src/migrations/**/*.ts"
