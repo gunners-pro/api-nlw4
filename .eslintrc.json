@@ -16,6 +16,7 @@
     "@typescript-eslint"
   ],
   "rules": {
+    "@typescript-eslint/ban-types": "off",
     "camelcase": "off",
     "class-methods-use-this": "off",
     "no-use-before-define": "off",
