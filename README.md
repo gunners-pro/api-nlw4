@@ -25,6 +25,9 @@ Nessa aplicação foram utilizados as seguintes tecnologias abaixo:
 
 Primeiro faça o clone do repositório: <br>
     `git clone {url repositório}` <br><br>
+Obs.: Precisa configurar o banco de dados PostgreSQL antes de executar o projeto.
+Veja o arquivo ormconfig.example.json como exemplo.
+E remova o ormconfig.js. <br><br>
 Entre na pasta do projeto: <br>
     `cd api-nlw4` <br><br>
 Execute o comando para baixar os pacotes: <br>
